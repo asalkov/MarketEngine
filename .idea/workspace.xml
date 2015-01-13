@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7484ded3-3a39-4938-9227-8e7b2de61d18" name="Default" comment="Add doc links">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/market/services/ClientService.java" afterPath="$PROJECT_DIR$/src/main/java/com/market/services/ClientService.java" />
-    </list>
+    <list default="true" id="7484ded3-3a39-4938-9227-8e7b2de61d18" name="Default" comment="Add doc links" />
     <ignored path="MarketEngine.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -805,15 +803,15 @@
       <workItem from="1421143047504" duration="37000" />
       <workItem from="1421143309172" duration="169000" />
       <workItem from="1421143650407" duration="2720000" />
-      <workItem from="1421160147902" duration="4651000" />
+      <workItem from="1421160147902" duration="4803000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32632000" />
+    <option name="totallyTimeSpent" value="32784000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
