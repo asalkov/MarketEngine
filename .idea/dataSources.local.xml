@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="H2 - h2db" uuid="be4564be-99b1-42a6-97dc-33dd34f20ea7">
+      <user-name>test</user-name>
+      <user-password>dfdedfcfdfd9dfde</user-password>
+    </data-source>
+    <data-source name="hibernate.cfg.xml" uuid="56de6251-ac61-47e0-9fa3-a2663c6813a4">
+      <user-name>test</user-name>
+      <user-password>dfd8dfcfdfd9dfde</user-password>
+    </data-source>
+  </component>
+</project>
